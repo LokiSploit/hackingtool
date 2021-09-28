@@ -34,7 +34,7 @@ def bill():
 |________/ \______/ |__/  \__/|__/             \______/ | $$____/ |__/ \______/ |__/   \___/  
                                                         | $$                                  
                                                         | $$                                  
-                                                        |__/ 0.1
+                                                        |__/ 0.3
 
  Information Gathering tool (new version all week)""")
     print()
