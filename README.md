@@ -2,6 +2,7 @@
 # Basic Information Gathering Tools / new version all month
 
  # Install and Run in Linux
+    git clone https://github.com/LokiSploit/hackingtool
     sudo apt update && sudo apt install ruby python python-pip python3 python3-pip
     sudo apt install httrack whatweb
     git clone https://github.com/
